@@ -1,3 +1,13 @@
 [
-  null
+  2,
+  {
+    "title": "Test Title",
+    "text": "Testing note taking",
+    "id": null
+  },
+  {
+    "title": "Second test",
+    "text": "still testing",
+    "id": 1
+  }
 ]
